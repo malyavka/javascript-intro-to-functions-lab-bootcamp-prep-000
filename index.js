@@ -6,6 +6,7 @@ function shout(String) {
 function whisper(String) {
   let str1 = String.toLowerCase();
   return str1;
+<<<<<<< HEAD
 }
 function logShout(String) {
   let str1 = String.toUpperCase();
@@ -27,4 +28,6 @@ function sayHiToGrandma(String) {
   if (String === "I love you, Grandma.") {
     return 'I love you, too.'
   }
+=======
+>>>>>>> 7d27464702c2c784cae90883a5d1870319fb0869
 }
